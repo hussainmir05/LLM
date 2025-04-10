@@ -1,0 +1,7 @@
+hello
+llm is a supervised learnig
+type of ANN
+uses transformers 
+more data 
+encoder BERT Decoder GPT
+embadings convert txt into numbers
