@@ -6,3 +6,4 @@ more data
 encoder BERT Decoder GPT
 embadings convert txt into numbers
 jak
+thalkhf
