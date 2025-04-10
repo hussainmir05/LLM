@@ -5,3 +5,4 @@ uses transformers
 more data 
 encoder BERT Decoder GPT
 embadings convert txt into numbers
+jak
